@@ -14,7 +14,7 @@
 * tzdata 2022.7
 
 # Como rodar o projeto?
-
+~~~linux
 git clone https://github.com/santosgv/Django-Ninja.git
 cd Django-Ninja
 python -m venv .venv
